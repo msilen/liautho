@@ -9,6 +9,8 @@
 # Corrections? Improvements? Create a GitHub issue: 
 # http://github.com/RailsApps/rails3-application-templates/issues
 #----------------------------------------------------------------------------
+#omniauth
+/config/initializers/omniauth.rb
 
 # bundler state
 /.bundle
